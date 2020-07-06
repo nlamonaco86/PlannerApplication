@@ -17,3 +17,4 @@ Saves the user inputs to localStorage and retrieves them on startup
 The application is fully functional and I plan to optimize it in the future as my skill improves
 
 ![Planner App Preview](assets/plannerdemo.jpg)
+
