@@ -44,7 +44,7 @@ var currentTime = moment().format('H');
 
 $("#btn9").click(function () {
     var am9 = $("#am9").val().trim();
-    alert(am9)
+//     alert(am9)
     // Saves text entered in each form box into localStorage
     localStorage.setItem("am9", JSON.stringify(am9));
 });
